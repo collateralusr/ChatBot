@@ -1,5 +1,4 @@
-# TGPT-2 Chatbot
-
+# ChatBot
 This is a simple chatbot implemented using the GPT-2 language model. The chatbot is capable of generating responses to user inputs based on its pre-trained language model.
 
 
